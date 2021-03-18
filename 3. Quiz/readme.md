@@ -1,3 +1,5 @@
+## Quiz
+
 Python diciptakan oleh … pada tahun … dengan lisensi … yang ditujukan untuk … dan termasuk dalam kategori …
 
 - [ ] Bjarne Stroustrup, 1985, open source, general-purposes programming, high-level programming language

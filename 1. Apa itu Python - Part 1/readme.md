@@ -1,4 +1,4 @@
-### Apa itu Python? - Part 1
+## Apa itu Python? - Part 1
 
 **Halo, perkenalkan namaku Aksara!**
 

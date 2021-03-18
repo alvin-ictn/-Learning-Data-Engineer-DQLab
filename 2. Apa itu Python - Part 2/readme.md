@@ -1,4 +1,5 @@
-Apa itu Python? - Part 2
+### Apa itu Python? - Part 2
+
 Python adalah bahasa pemrograman yang ditujukan untuk ***general-purpose programming*** dan termasuk dalam kategori ***high-level programming language.***
 
 Sebagai general-purpose programming language, Python digunakan untuk berbagai macam permasalahan seperti: pengembangan aplikasi web ataupun mobile, **data science**, dll.
