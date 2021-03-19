@@ -11,6 +11,7 @@ Senja memberikan aku tugas untuk mulai mempraktekkan struktur bahasa python:
 
 2. Setelah selesai mengetik syntax, tekan tombol Run
 Kamu akan melihat console pada Live Code Editor menampilkan output 
+
 ![Console Log](https://raw.githubusercontent.com/alvin-ictn/readme/master/assets/images/DQLab/Python/Python%20Hello%20World%203.PNG?raw=true)
 
 Klik tombol Submit untuk melanjutkan.
