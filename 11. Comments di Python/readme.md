@@ -18,6 +18,7 @@ untuk menulis multi line comment.
 Ketikkan pada Live Code Editor contoh ***single line comment*** & ***multi line comment*** mengikuti contoh di bawah.
 **before**
 ![Before Edited](https://raw.githubusercontent.com/alvin-ictn/readme/master/assets/images/DQLab/Python/Python%20Comment%201.PNG?raw=true)
+
 **after**
 ![Edited Code](https://raw.githubusercontent.com/alvin-ictn/readme/master/assets/images/DQLab/Python/Python%20Comment%202.PNG?raw=true)
 
